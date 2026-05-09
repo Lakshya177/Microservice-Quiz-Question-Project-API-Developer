@@ -39,3 +39,26 @@ communication, and testing.
 -API testing with Postman
 =Easy scalability and maintenance
 </pre>
+
+## 📂 Project Structure
+
+## Quiz
+<pre>
+question-service
+  ├─src/main/java
+  |    ├──com.mycompany
+  |    |     └──QuizApplication.java
+  |    ├──com.mycompany.controller
+  |    |     └──MyController.java
+  |    ├──com.mycompany.dao
+  |    |     └──QuizRepository.java
+  |    ├──com.mycompany.entity
+  |    |     ├──Question.java
+  |    |     └── Quiz.java
+  |    └──com.mycompany.service
+  |           ├──QuestionClient 
+  |           ├──QuizService
+  |           └──QuizServiceImpl
+  └── src/main/resources
+        └──application.properties
+</pre>
