@@ -121,6 +121,10 @@ This service manages quiz and communicates with Question Service using Feign Cli
 ## postQuiz
 <img width="1918" height="486" alt="image" src="https://github.com/user-attachments/assets/6a47ba8d-80fe-407e-8767-6728fcc0166d" />
 
+## GetAllQuiz
+<img width="1909" height="784" alt="image" src="https://github.com/user-attachments/assets/5b3e0f1f-2b91-47a6-ad24-6644dffdeb79" />
+
+
 
 
 
