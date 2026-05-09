@@ -16,3 +16,14 @@ communication, and testing.
 -Manage database operations using Spring Data JPA and MySQL
 -Test APIs using Postman
 </pre>
+
+## 🛠️ Technologies Used
+<pre>
+-Java
+-Spring Boot
+-Spring Data JPA
+-MySQL
+-OpenFeign
+-REST API
+-Postman
+</pre>
