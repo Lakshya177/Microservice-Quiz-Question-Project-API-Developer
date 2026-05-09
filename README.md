@@ -127,6 +127,20 @@ This service manages quiz and communicates with Question Service using Feign Cli
 ## GetSingleQuiz
 <img width="1909" height="712" alt="image" src="https://github.com/user-attachments/assets/7b07d447-18f3-4822-b92f-880c946ca406" />
 
+## 2️⃣ Question Service
+<pre>
+This service manages all quiz questions.
+</pre>
+
+## ✨ Features
+<pre>
+-Add Question
+-Get All Questions
+-Get Question By ID
+-Delete Question
+-Update Question
+</pre>
+
 
 
 
