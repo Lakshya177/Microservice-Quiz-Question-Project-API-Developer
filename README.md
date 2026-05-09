@@ -82,3 +82,7 @@ This service manages quiz and communicates with Question Service using Feign Cli
 -Get All Quizzes
 -Connect with Question Service
 </pre>
+
+## 📸 Screenshots
+
+## 🔹 1. 
