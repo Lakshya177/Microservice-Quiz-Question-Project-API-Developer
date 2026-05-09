@@ -121,7 +121,7 @@ This service manages quiz and communicates with Question Service using Feign Cli
 ## 🔹 6. Application.properties
 <img width="1859" height="547" alt="image" src="https://github.com/user-attachments/assets/f360cd2f-7144-4683-bc4a-03ee62f8ec0a" />
 
-## Postman 
+## 📮 Postman
 
 ## postQuiz
 <img width="1918" height="486" alt="image" src="https://github.com/user-attachments/assets/6a47ba8d-80fe-407e-8767-6728fcc0166d" />
