@@ -73,13 +73,12 @@ question
 ## 🏗️ Microservices Used
 ## 1️⃣ Quiz Service
 <pre>
-Handles quiz-related operations.
+This service manages quiz and communicates with Question Service using Feign Client.
 </pre>
 ## ✨ Features
 <pre>
 -Create Quiz
--Get Quiz by ID
+-Get Quiz By ID
 -Get All Quizzes
--Delete Quiz
 -Connect with Question Service
--</pre>
+</pre>
