@@ -102,6 +102,18 @@ This service manages quiz and communicates with Question Service using Feign Cli
 ## Quiz
 <img width="1845" height="794" alt="image" src="https://github.com/user-attachments/assets/8a550745-0fca-4835-a58c-6a170e2ef8db" />
 
+## 🔹 5. Service
+
+## QuestionClient 
+<img width="1860" height="716" alt="image" src="https://github.com/user-attachments/assets/0bdef164-7415-41a5-b56f-d9a0993492ce" />
+
+## QuizService
+<img width="1872" height="626" alt="image" src="https://github.com/user-attachments/assets/d6976b44-0d56-4311-99fd-8c78e4cc35b4" />
+
+## QuizServiceImpl
+<img width="1897" height="870" alt="image" src="https://github.com/user-attachments/assets/025affb8-88c6-4051-9d0b-6a037752b925" />
+
+
 
 
 
