@@ -213,7 +213,18 @@ This service manages all quiz questions.
 +-----+-------------+
 </pre>
 
+## 👨‍💻 Conclusion
 
+<pre>
+This project demonstrates how to build scalable and modular applications using Spring Boot Microservices. 
+It improves understanding of REST APIs, service communication, and backend development using Java technologies.
+</pre>
+
+## 👨‍💻 Author
+
+**Lakshya Gupta**  
+🚀 Java & Spring Boot Developer 
+📚 Microservices & API Development  
 
 
 
