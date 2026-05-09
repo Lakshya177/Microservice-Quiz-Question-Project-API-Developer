@@ -44,7 +44,7 @@ communication, and testing.
 
 ## Quiz
 <pre>
-question-service
+quiz
   ├─src/main/java
   |    ├──com.mycompany
   |    |     └──QuizApplication.java
@@ -56,9 +56,28 @@ question-service
   |    |     ├──Question.java
   |    |     └── Quiz.java
   |    └──com.mycompany.service
-  |           ├──QuestionClient 
-  |           ├──QuizService
-  |           └──QuizServiceImpl
+  |           ├──QuestionClient.java
+  |           ├──QuizService.java
+  |           └──QuizServiceImpl.java
+  └── src/main/resources
+        └──application.properties
+</pre>
+
+## Question
+<pre>
+question
+  ├─src/main/java
+  |    ├──com.mycompany
+  |    |     └──QuestionApplication.java
+  |    ├──com.mycompany.controller
+  |    |     └──MyController.java
+  |    ├──com.mycompany.dao
+  |    |     └──QuestionRepository.java
+  |    ├──com.mycompany.entity
+  |    |     └── Question.java
+  |    └──com.mycompany.service
+  |           ├──QuestionService.java
+  |           └──QuestionServiceImpl.java
   └── src/main/resources
         └──application.properties
 </pre>
