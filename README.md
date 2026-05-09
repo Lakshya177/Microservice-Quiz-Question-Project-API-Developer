@@ -179,8 +179,9 @@ This service manages all quiz questions.
 
 ## 📊 Database Table
 
-## ❓ Question
+## ❓ Question Service
 
+<pre>
 +---------+------+------------------------------------------------------------+
 | ques_id | qid  | question                                                   |
 +---------+------+------------------------------------------------------------+
@@ -197,6 +198,7 @@ This service manages all quiz questions.
 |      11 |    4 | what is cricket                                            |
 |      12 |    4 | full form Ipl                                              |
 +---------+------+------------------------------------------------------------+
+</pre>
 
 
 
