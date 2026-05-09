@@ -177,6 +177,27 @@ This service manages all quiz questions.
 ## GetSingleQuestion
 <img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/8796edcf-be44-40be-954b-c883c1ad180e" />
 
+## 📊 Database Table
+
+## ❓ Question
+
++---------+------+------------------------------------------------------------+
+| ques_id | qid  | question                                                   |
++---------+------+------------------------------------------------------------+
+|       1 |    1 | What is java                                               |
+|       2 |    2 | What is the capital of India?                              |
+|       3 |    3 | What is the minimum age to become Prime Minister of India? |
+|       4 |    1 | what is  Hibernate                                         |
+|       5 |    2 | Which is the longest river in the world?                   |
+|       6 |    3 | What is the lower house of Parliament called?              |
+|       7 |    1 | What is spring boot                                        |
+|       8 |    2 | Who invented the bulb?                                     |
+|       9 |    3 | How many members are there in Lok Sabha?                   |
+|      10 |    4 | full form DRS                                              |
+|      11 |    4 | what is cricket                                            |
+|      12 |    4 | full form Ipl                                              |
++---------+------+------------------------------------------------------------+
+
 
 
 
