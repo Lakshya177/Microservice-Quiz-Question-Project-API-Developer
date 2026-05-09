@@ -19,13 +19,13 @@ communication, and testing.
 
 ## 🛠️ Technologies Used
 <pre>
--Java
--Spring Boot
--Spring Data JPA
--MySQL
--OpenFeign
--REST API
--Postman
+- ☕ Java
+- 🚀 Spring Boot
+- 🗂️ Spring Data JPA
+- 🗄️ MySQL
+- 🔗 OpenFeign
+- 🌐 REST API
+- 📮 Postman
 </pre>
 
 ## 📂 Project Structure
