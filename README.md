@@ -27,3 +27,15 @@ communication, and testing.
 -REST API
 -Postman
 </pre>
+
+## ✨ Features
+<pre>
+-Microservice-based architecture
+-RESTful API development
+-CRUD operations for Quiz and Question modules
+-Service-to-service communication using OpenFeign
+-MySQL database integration
+-Layered architecture implementation
+-API testing with Postman
+=Easy scalability and maintenance
+</pre>
