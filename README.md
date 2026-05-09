@@ -28,17 +28,6 @@ communication, and testing.
 -Postman
 </pre>
 
-## ✨ Features
-<pre>
--Add, update, delete, and fetch quizzes
--Manage questions separately
--RESTful API communication
--Database integration with MySQL
--Layered architecture (Controller, Service, Repository)
--API testing using Postman
--Easy and scalable microservice structure
-</pre>
-
 ## 📂 Project Structure
 
 ## Quiz
@@ -79,4 +68,18 @@ question
   |           └──QuestionServiceImpl.java
   └── src/main/resources
         └──application.properties
+</pre>
+
+## 🏗️ Microservices Used
+## 1️⃣ Quiz Service
+<pre>
+Handles quiz-related operations.
+</pre>
+<pre>
+## ✨ Features
+Create Quiz
+Get Quiz by ID
+Get All Quizzes
+Delete Quiz
+Connect with Question Service
 </pre>
