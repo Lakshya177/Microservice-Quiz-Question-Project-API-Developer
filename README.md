@@ -75,11 +75,11 @@ question
 <pre>
 Handles quiz-related operations.
 </pre>
-<pre>
 ## ✨ Features
-Create Quiz
-Get Quiz by ID
-Get All Quizzes
-Delete Quiz
-Connect with Question Service
-</pre>
+<pre>
+-Create Quiz
+-Get Quiz by ID
+-Get All Quizzes
+-Delete Quiz
+-Connect with Question Service
+-</pre>
