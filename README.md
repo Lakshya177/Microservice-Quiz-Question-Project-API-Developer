@@ -171,7 +171,7 @@ This service manages all quiz questions.
 ## 🔹 6. Application.properties
 <img width="1853" height="376" alt="image" src="https://github.com/user-attachments/assets/a88cd14a-e5e5-42a2-91ee-fe456ac899ad" />
 
-## Postman 
+## 📮 Postman
 
 ## postQuestion
 <img width="1879" height="522" alt="image" src="https://github.com/user-attachments/assets/d4c07e52-15ea-41ad-82ff-0c16d5ce2874" />
