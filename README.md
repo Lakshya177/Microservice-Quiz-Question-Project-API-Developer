@@ -30,14 +30,13 @@ communication, and testing.
 
 ## ✨ Features
 <pre>
--Microservice-based architecture
--RESTful API development
--CRUD operations for Quiz and Question modules
--Service-to-service communication using OpenFeign
--MySQL database integration
--Layered architecture implementation
--API testing with Postman
-=Easy scalability and maintenance
+-Add, update, delete, and fetch quizzes
+-Manage questions separately
+-RESTful API communication
+-Database integration with MySQL
+-Layered architecture (Controller, Service, Repository)
+-API testing using Postman
+-Easy and scalable microservice structure
 </pre>
 
 ## 📂 Project Structure
