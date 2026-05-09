@@ -1,60 +1,43 @@
 package com.mycompany.controller;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mycompany.entity.Question;
-import com.mycompany.service.QuestionService;
+import com.mycompany.entity.Quiz;
+import com.mycompany.service.QuizService;
 
 @RestController
-@RequestMapping("/question")
+@RequestMapping("/quiz")
 public class MyController {
 @Autowired
-QuestionService service;
-
+	QuizService service;
+	
 @GetMapping
-public List<Question> getAllQuestion()
-{
-	List<Question> l=service.getAllQuestion();
-	return l;
-}
+public List<Quiz> getAllQuiz() {
+		List<Quiz> l=service.getAllQuiz();
+		return l;
+	}
 
-@GetMapping("/{qid}")
-public Question getQuizById(@PathVariable Integer qid)
-{
-Question q=service.getQuestionById(qid);
+	@GetMapping("/{qid}")
+	public Quiz getQuizById(@PathVariable Integer qid) {
+		Quiz q=service.getQuizById(qid);
+		
 		return q;
-}
+	}
 
-@PostMapping
-public Question postQuestion(@RequestBody Question quiz)
-{
-	System.out.println("controller="+quiz);
-	return service.postQuestion(quiz);
-}
-@PutMapping
-public Question putQuestion(@RequestBody Question q) {
-    return service.putQuestion(q);
-}
-
-@DeleteMapping("/{ques_id}")
-public String deleteQuestion(@PathVariable int ques_id) {
-    service.deleteQuestion(ques_id);
-    return "Delete successfully";
-}
-
-@GetMapping("/quiz/{quiz_id}")
-public List<Question> getQuestionsofQuizId(@PathVariable Long quiz_id){
-	return service.getQuestionsofQuizId(quiz_id);
-}
+	@PostMapping
+	public Quiz postQuiz(@RequestBody Quiz quiz) {
+		System.out.println("controller="+quiz);
+		return service.postQuiz(quiz);
+	}
 
 }
+
