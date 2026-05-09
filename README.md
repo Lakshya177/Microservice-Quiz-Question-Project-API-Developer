@@ -185,21 +185,33 @@ This service manages all quiz questions.
 +---------+------+------------------------------------------------------------+
 | ques_id | qid  | question                                                   |
 +---------+------+------------------------------------------------------------+
-|       1 |    1 | What is java                                               |
-|       2 |    2 | What is the capital of India?                              |
-|       3 |    3 | What is the minimum age to become Prime Minister of India? |
-|       4 |    1 | what is  Hibernate                                         |
+|       1 |    1 | what is java                                               |
+|       2 |    1 | what is  Hibernate                                         |
+|       3 |    1 | what is  spring boot                                       |
+|       4 |    2 | What is the capital of India?                              |
 |       5 |    2 | Which is the longest river in the world?                   |
-|       6 |    3 | What is the lower house of Parliament called?              |
-|       7 |    1 | What is spring boot                                        |
-|       8 |    2 | Who invented the bulb?                                     |
+|       6 |    2 | Who invented the bulb?                                     |
+|       7 |    3 | What is the minimum age to become Prime Minister of India? |
+|       8 |    3 | What is the lower house of Parliament called?              |
 |       9 |    3 | How many members are there in Lok Sabha?                   |
-|      10 |    4 | full form DRS                                              |
-|      11 |    4 | what is cricket                                            |
-|      12 |    4 | full form Ipl                                              |
+|      10 |    4 | Which player is known as King Kohli?                       |
+|      11 |    4 | Who is called Captain Cool?                                |
+|      12 |    4 | Which Indian player is known as the Hitman?                |
 +---------+------+------------------------------------------------------------+
 </pre>
 
+##  🧠 Quiz Service
+
+<pre>
++-----+-------------+
+| qid | title       |
++-----+-------------+
+|   1 | Programming |
+|   2 | GK          |
+|   3 | Politics    |
+|   4 | Cricket     |
++-----+-------------+
+</pre>
 
 
 
