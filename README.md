@@ -91,4 +91,8 @@ This service manages quiz and communicates with Question Service using Feign Cli
 ## 🔹 2. Controller
 <img width="1860" height="899" alt="image" src="https://github.com/user-attachments/assets/a63c0cd2-eb4d-458b-9126-66f48052b710" />
 
+## 🔹 3. Repository
+<img width="1866" height="883" alt="image" src="https://github.com/user-attachments/assets/97776062-4639-4fd7-ae53-08a4b69d401b" />
+
+
 
