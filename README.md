@@ -6,6 +6,7 @@ Architecture. It provides REST APIs to manage quizzes and questions efficiently.
 Spring Data JPA, MySQL, OpenFeign,and Postman for API development, database operations, service 
 communication, and testing.
 </pre>
+---
 
 ## 🎯 Objectives
 <pre>
@@ -16,6 +17,7 @@ communication, and testing.
 -Manage database operations using Spring Data JPA and MySQL
 -Test APIs using Postman
 </pre>
+---
 
 ## 🛠️ Technologies Used
 <pre>
@@ -27,6 +29,7 @@ communication, and testing.
 - 🌐 REST API
 - 📮 Postman
 </pre>
+---
 
 ## 📂 Project Structure
 
@@ -69,6 +72,7 @@ question
   └── src/main/resources
         └──application.properties
 </pre>
+---
 
 ## 🏗️ Microservices Used
 ## 1️⃣ Quiz Service
@@ -82,6 +86,7 @@ This service manages quiz and communicates with Question Service using Feign Cli
 -Get All Quizzes
 -Connect with Question Service
 </pre>
+---
 
 ## 📸 Screenshots
 
@@ -177,6 +182,7 @@ This service manages all quiz questions.
 ## GetSingleQuestion
 <img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/8796edcf-be44-40be-954b-c883c1ad180e" />
 
+---
 ## 📊 Database Table
 
 ## ❓ Question Service
@@ -213,12 +219,14 @@ This service manages all quiz questions.
 +-----+-------------+
 </pre>
 
+---
 ## 👨‍💻 Conclusion
 
 <pre>
 This project demonstrates how to build scalable and modular applications using Spring Boot Microservices. 
 It improves understanding of REST APIs, service communication, and backend development using Java technologies.
 </pre>
+---
 
 ## 👨‍💻 Author
 
