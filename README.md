@@ -141,6 +141,43 @@ This service manages all quiz questions.
 -Update Question
 </pre>
 
+## 📸 Screenshots
+
+## 🔹 1. Question  main class
+<img width="1884" height="425" alt="image" src="https://github.com/user-attachments/assets/450806bb-5b03-45a8-8669-a9a9cd11f232" />
+
+## 🔹 2. Controller
+<img width="1825" height="752" alt="image" src="https://github.com/user-attachments/assets/875c7938-d6c2-4469-884f-b9b44bbe87c3" />
+
+## 🔹 3. Repository
+<img width="1889" height="473" alt="image" src="https://github.com/user-attachments/assets/f6ac5074-cab5-47aa-b249-0b89b79bc13d" />
+
+## 🔹 4. Entity
+<img width="1845" height="875" alt="image" src="https://github.com/user-attachments/assets/0946d864-55d2-40cc-86ab-c851c34e0997" />
+
+## 🔹 5. Service
+
+## QuestionService
+<img width="1900" height="501" alt="image" src="https://github.com/user-attachments/assets/012beec7-a274-4480-9c7a-313849f59112" />
+
+## QuestionServiceImpl
+<img width="1884" height="850" alt="image" src="https://github.com/user-attachments/assets/d9811fb5-7208-4e56-b73d-91d2546fade1" />
+
+## 🔹 6. Application.properties
+<img width="1853" height="376" alt="image" src="https://github.com/user-attachments/assets/a88cd14a-e5e5-42a2-91ee-fe456ac899ad" />
+
+## Postman 
+
+## postQuestion
+<img width="1879" height="522" alt="image" src="https://github.com/user-attachments/assets/d4c07e52-15ea-41ad-82ff-0c16d5ce2874" />
+
+## GetAllQuestion
+<img width="1877" height="890" alt="image" src="https://github.com/user-attachments/assets/d4f0023e-b725-47e0-8229-303bc0281ecf" />
+
+## GetSingleQuestion
+<img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/8796edcf-be44-40be-954b-c883c1ad180e" />
+
+
 
 
 
