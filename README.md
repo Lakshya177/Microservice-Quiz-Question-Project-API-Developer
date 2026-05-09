@@ -122,7 +122,12 @@ This service manages quiz and communicates with Question Service using Feign Cli
 <img width="1918" height="486" alt="image" src="https://github.com/user-attachments/assets/6a47ba8d-80fe-407e-8767-6728fcc0166d" />
 
 ## GetAllQuiz
-<img width="1909" height="784" alt="image" src="https://github.com/user-attachments/assets/5b3e0f1f-2b91-47a6-ad24-6644dffdeb79" />
+<img width="1530" height="860" alt="image" src="https://github.com/user-attachments/assets/0ee84875-45e5-44d2-89c0-3cab2be13bd3" />
+
+## GetSingleQuiz
+<img width="1553" height="647" alt="image" src="https://github.com/user-attachments/assets/9590b287-f04c-4f1a-a22a-80d44eb71751" />
+
+
 
 
 
